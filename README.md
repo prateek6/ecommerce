@@ -18,5 +18,5 @@ and price
 database
 9. Console should have an option for all the operations mentioned above. 
 
-To run:
+To run the project:
 1. Go to EcommerceApp class, run the main mehod.
