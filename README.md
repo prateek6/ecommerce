@@ -1,5 +1,5 @@
-# ecommerce
-Problem Statement: Make a console based java application which supports
+# Problem Statement:
+Make a console based java application which supports
 CRUD (Create, Read, Update, Delete) operations for e-commerce domain.
  
 Application should be able to support following features:
@@ -17,3 +17,6 @@ and price
 8. User and Product information should be persisted in memory and not
 database
 9. Console should have an option for all the operations mentioned above. 
+
+To run:
+1. Go to EcommerceApp class, run the main mehod.
